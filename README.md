@@ -14,13 +14,13 @@ Welcome to **ALX Backend Storage**! This repository is your one-stop solution fo
 ## 🌟 Features 🌟
 
 - **Scalability**: Our system can easily scale up or down based on your needs.
-  ![Scalability Image](URL_OF_YOUR_SCALABILITY_IMAGE)
+  <img src="URL_OF_YOUR_SCALABILITY_IMAGE" alt="Scalability Image" width="500"/>
 - **Performance**: Enjoy high-speed data access and transfer.
-  ![Performance Image](URL_OF_YOUR_PERFORMANCE_IMAGE)
+  <img src="URL_OF_YOUR_PERFORMANCE_IMAGE" alt="Performance Image" width="500"/>
 - **Security**: Your data is safe with us, thanks to our state-of-the-art security measures.
-  ![Security Image](URL_OF_YOUR_SECURITY_IMAGE)
+  <img src="URL_OF_YOUR_SECURITY_IMAGE" alt="Security Image" width="500"/>
 - **Reliability**: We ensure your data is always available when you need it.
-  ![Reliability Image](URL_OF_YOUR_RELIABILITY_IMAGE)
+  <img src="URL_OF_YOUR_RELIABILITY_IMAGE" alt="Reliability Image" width="500"/>
 
 ## 🚀 Getting Started 🚀
 
