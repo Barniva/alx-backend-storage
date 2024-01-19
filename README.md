@@ -1,7 +1,8 @@
 
+
 # 🚀 ALX Backend Storage 🚀
 
-![ALX Backend Storage Logo](URL_OF_YOUR_LOGO)
+![ALX Backend Storage Logo](data:image/png;base64,INSERT_BASE64_ENCODED_LOGO_HERE)
 
 Welcome to **ALX Backend Storage**! This repository is your one-stop solution for robust and scalable storage for backend applications.
 
@@ -9,18 +10,18 @@ Welcome to **ALX Backend Storage**! This repository is your one-stop solution fo
 
 **ALX Backend Storage** is a state-of-the-art storage system designed specifically for backend applications. It provides a user-friendly API for storing, retrieving, and managing data. Whether you're dealing with a few kilobytes or several petabytes, ALX Backend Storage is up to the task!
 
-![Backend Storage Diagram](URL_OF_YOUR_DIAGRAM)
+![Backend Storage Diagram](data:image/png;base64,INSERT_BASE64_ENCODED_DIAGRAM_HERE)
 
 ## 🌟 Features 🌟
 
 - **Scalability**: Our system can easily scale up or down based on your needs.
-  <img src="URL_OF_YOUR_SCALABILITY_IMAGE" alt="Scalability Image" width="500"/>
+  ![Scalability Image](data:image/png;base64,INSERT_BASE64_ENCODED_SCALABILITY_IMAGE_HERE)
 - **Performance**: Enjoy high-speed data access and transfer.
-  <img src="URL_OF_YOUR_PERFORMANCE_IMAGE" alt="Performance Image" width="500"/>
+  ![Performance Image](data:image/png;base64,INSERT_BASE64_ENCODED_PERFORMANCE_IMAGE_HERE)
 - **Security**: Your data is safe with us, thanks to our state-of-the-art security measures.
-  <img src="URL_OF_YOUR_SECURITY_IMAGE" alt="Security Image" width="500"/>
+  ![Security Image](data:image/png;base64,INSERT_BASE64_ENCODED_SECURITY_IMAGE_HERE)
 - **Reliability**: We ensure your data is always available when you need it.
-  <img src="URL_OF_YOUR_RELIABILITY_IMAGE" alt="Reliability Image" width="500"/>
+  ![Reliability Image](data:image/png;base64,INSERT_BASE64_ENCODED_RELIABILITY_IMAGE_HERE)
 
 ## 🚀 Getting Started 🚀
 
