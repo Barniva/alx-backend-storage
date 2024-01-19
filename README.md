@@ -1,4 +1,7 @@
+
 # 🚀 ALX Backend Storage 🚀
+
+![ALX Backend Storage Logo](https://your-image-url.com/logo.png)
 
 Welcome to **ALX Backend Storage**! This repository is designed to provide a robust and scalable storage solution for backend applications. 
 
@@ -6,17 +9,18 @@ Welcome to **ALX Backend Storage**! This repository is designed to provide a rob
 
 **ALX Backend Storage** is a highly efficient storage system designed for backend applications. It provides a simple and intuitive API for storing, retrieving, and managing data. Whether you're dealing with small amounts of data or petabytes, ALX Backend Storage has got you covered!
 
+![Backend Storage Diagram](https://your-image-url.com/diagram.png)
+
 ## 🌟 Features 🌟
 
 - **Scalability**: Easily scale up or down based on your needs.
-  !Scalability Image
+  ![Scalability Image](https://your-image-url.com/scalability.png)
 - **Performance**: High-speed data access and transfer.
-  !Performance Image
+  ![Performance Image](https://your-image-url.com/performance.png)
 - **Security**: State-of-the-art security measures to protect your data.
-  !Security Image
+  ![Security Image](https://your-image-url.com/security.png)
 - **Reliability**: Ensures your data is always available when you need it.
-  !Reliability Image
-
+  ![Reliability Image](https://your-image-url.com/reliability.png)
 
 ## 🚀 Getting Started 🚀
 
@@ -48,3 +52,4 @@ Contributions are always welcome! See [CONTRIBUTING.md](#) for ways to get start
 ## 📃 License 📃
 
 This project is licensed under the [MIT License](#).
+
