@@ -3,9 +3,6 @@
 
 Welcome to **ALX Backend Storage**! This repository is your one-stop solution for robust and scalable storage for backend applications.
 
-## 📖 What is ALX Backend Storage? 📖
-
-**ALX Backend Storage** is a state-of-the-art storage system designed specifically for backend applications. It provides a user-friendly API for storing, retrieving, and managing data. Whether you're dealing with a few kilobytes or several petabytes, ALX Backend Storage is up to the task!
 
 ## 🚀 Getting Started 🚀
 
