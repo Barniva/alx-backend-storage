@@ -54,6 +54,3 @@ Contributions are always welcome! See [CONTRIBUTING.md](#) for ways to get start
 This project is licensed under the [MIT License](#).
 
 Thank you for checking out **ALX Backend Storage**! 😊
-```
-
-Remember to replace `INSERT_BASE64_LOGO` with the actual base64-encoded content of your logo.
