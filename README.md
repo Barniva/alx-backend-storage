@@ -2,7 +2,7 @@
 
 # 🚀 ALX Backend Storage 🚀
 
-![ALX Backend Storage Logo](data:image/png;base64,`INSERT_BASE64_ENCODED_DIAGRAM_HERE`)
+![ALX Backend Storage Logo](data:image/png;base64)
 
 Welcome to **ALX Backend Storage**! This repository is your one-stop solution for robust and scalable storage for backend applications.
 
