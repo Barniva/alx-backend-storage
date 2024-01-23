@@ -1,5 +1,6 @@
 # 🚀 MongoDB Projects !MongoDB Logo 🚀
 
+
 Welcome to a collection of Python scripts that interact with MongoDB databases and perform CRUD operations on documents. It's a great place to learn, experiment, and have fun!
 
 ## 📚 What's Included 📚
