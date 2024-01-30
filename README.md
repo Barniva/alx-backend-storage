@@ -8,7 +8,7 @@ Welcome to **ALX Backend Storage**! This repository is your one-stop solution fo
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/alx-backend-storage.git
+   git clone https://github.com/Barniva/alx-backend-storage.git
    ```
 2. Navigate to the project directory
    ```bash
